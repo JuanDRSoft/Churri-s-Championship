@@ -1,0 +1,30 @@
+{
+  "Equipos": [
+    {
+      "nombre": "Juventus",
+      "id": 1,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/churris-championship.appspot.com/o/584aaf6330d6736bca3d6deb.png?alt=media&token=61dd3259-c4fe-4e22-a64b-b8bbae5fb752"
+    },
+    {
+      "nombre": "Real Madrid",
+      "id": 2,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/churris-championship.appspot.com/o/584a9b47b080d7616d298778.png?alt=media&token=eaac5f00-7ea5-4d3e-8dd6-170d6a062afc"
+    },
+    {
+      "nombre": "Barcelona",
+      "id": 3,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/churris-championship.appspot.com/o/584a9b3bb080d7616d298777.png?alt=media&token=3be2272e-9463-490a-82a9-4a57199b2146"
+    }
+  ],
+  "Historial": [
+    {
+      "id": 3353,
+      "local": "0",
+      "visitante": "1",
+      "nombreLocal": "Juventus",
+      "logoLocal": "https://firebasestorage.googleapis.com/v0/b/churris-championship.appspot.com/o/584aaf6330d6736bca3d6deb.png?alt=media&token=61dd3259-c4fe-4e22-a64b-b8bbae5fb752",
+      "nombreVisitante": "Real Madrid",
+      "logoVisitante": "https://firebasestorage.googleapis.com/v0/b/churris-championship.appspot.com/o/584a9b47b080d7616d298778.png?alt=media&token=eaac5f00-7ea5-4d3e-8dd6-170d6a062afc"
+    }
+  ]
+}
